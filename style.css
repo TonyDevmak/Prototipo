@@ -11,7 +11,7 @@
 }
 
 .titulo-principal {
-    color: var(--branco)
+    color: var(--branco);
 }
 
 body {
@@ -115,7 +115,7 @@ body {
   margin: 0;
 }
 
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 768px){
     .botoes{
         display: flex;
     }
@@ -125,3 +125,4 @@ body {
     .botao:last-child{
         border-radius: 0 40px 0 0;
       }
+    }
